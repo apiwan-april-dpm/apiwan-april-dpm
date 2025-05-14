@@ -7,4 +7,4 @@ My name's Apiwan (April) D., master's student in international development polic
 - **Data Stories** turning complex issues into compelling narratives such as [betterroad.thailandfuture.org](https://betterroad.thailandfuture.org) <br />
 Rethinking Road Accidents in Thailand: A deep dive into why traffic accidents are a systemic issue, not just personal misfortune 
 
-🌱 I'm currently strengthening competencies in: rigorous impact evaluation and econometrics for human capital development <br />
+🌱 Currently strengthening competencies in: rigorous impact evaluation and econometrics for human capital development <br />
